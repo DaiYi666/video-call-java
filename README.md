@@ -127,9 +127,9 @@ Gitee
 ---
 
 GitHub
-前端: [https://gitee.com/daiyi-personal/video-call-vue.git](https://gitee.com/daiyi-personal/video-call-vue.git)
+前端: [https://github.com/DaiYi666/video-call-vue.git](https://github.com/DaiYi666/video-call-vue.git)
 
-后台: [https://gitee.com/daiyi-personal/video-call-java.git](https://gitee.com/daiyi-personal/video-call-java.git)
+后台: [https://github.com/DaiYi666/video-call-java.git](https://github.com/DaiYi666/video-call-java.git)
 
 ## 打赏
 
